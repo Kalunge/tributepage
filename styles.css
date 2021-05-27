@@ -1,0 +1,47 @@
+#image {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    margin: auto;
+}
+
+#title {
+    text-align: center;
+}
+
+#more-info {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.tribute {
+    margin: 20px;
+}
+
+#capture {
+    text-align: center;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+body {
+    background-color: grey;
+}
+
+#photo-area {
+    background-color:teal;
+    padding: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#quote {
+    margin-left: 20px;
+}
